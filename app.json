@@ -3,7 +3,7 @@
     "name": "Redux Saga Test",
     "slug": "redux-saga-test",
     "privacy": "public",
-    "sdkVersion": "33.0.0",
+    "sdkVersion": "38.0.0",
     "platforms": [
       "ios",
       "android",
